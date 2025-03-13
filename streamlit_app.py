@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
 import matplotlib.pyplot as plt
 import nltk
